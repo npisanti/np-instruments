@@ -25,7 +25,7 @@ namespace np {
 class DA4Event {
     
 	public:
-  	static const short MIN_AXES_VALUE = -32768;
+  	static const short MIN_AXES_VALUE = -32767;
 	static const short MAX_AXES_VALUE = 32767;
   
   	unsigned int    time;
@@ -88,7 +88,7 @@ public:
 	DA4Joystick(std::string devicePath);
         
 
-  	static const short axisMin = -32768;
+  	static const short axisMin = -32767;
 	static const short axisMax = 32767;
 
 private:
