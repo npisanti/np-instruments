@@ -1,0 +1,21 @@
+{
+    "general": {
+        "tempo": 108,
+        "division": 16,
+        "num_bars": 4,
+        "first_seq": 0
+    },
+    "sequences" : [
+        {
+            "rule": 60,
+            "density": 0.5,
+            "thresholds" : [ 0, 0, 0, 0, 0, 0 ]
+
+        },
+        {
+            "rule": 121,
+            "density": 0.5,
+            "thresholds" : [ 1, 2, 1, 0, 4, 4 ]
+        }
+    ]
+}

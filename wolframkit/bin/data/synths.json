@@ -1,0 +1,298 @@
+{
+    "wolframkit": {
+        "brickwall_limiter": {
+            "attack": "20",
+            "knee": "1",
+            "limiter_threshold": "0",
+            "makeup_gain": "0",
+            "release": "100",
+            "soft_clip_threshold": "-2"
+        },
+        "reverb": {
+            "damping": "0.5",
+            "density": "0.5",
+            "high_cut_freq": "5000",
+            "low_cut_freq": "100",
+            "mod_depth__ms_": "0.8",
+            "mod_speed__hz_": "0.2",
+            "reverb_gain": "-9",
+            "rt60": "3.33"
+        },
+        "stereo_delay": {
+            "L_16th_time": "4",
+            "L_feedback": "0.4",
+            "R_16th_time": "6",
+            "R_feedback": "0.4",
+            "damping": "0.5",
+            "input_gain": "-15",
+            "mod_depth__ms_": "0",
+            "mod_speed__hz_": "0.25",
+            "output_gain": "0",
+            "send_to_reverb": "-6"
+        },
+        "synth_0": {
+            "amp_envelope": {
+                "attack": "3",
+                "hold": "40",
+                "release": "20"
+            },
+            "filter": {
+                "cutoff": "136",
+                "mode": "0",
+                "reso": "0"
+            },
+            "mixer": {
+                "gain": "-12",
+                "pan": "0",
+                "send_to_delay": "-48",
+                "send_to_reverb": "-48"
+            },
+            "mod_envelope": {
+                "attack": "0",
+                "dynamics": "0.5",
+                "random_cutoff": "0",
+                "random_noise": "0",
+                "release": "50",
+                "to_decimation": "0",
+                "to_filter": "0",
+                "to_noise_pitch": "0",
+                "to_osc": "48",
+                "to_osc_fb": "0"
+            },
+            "noise": {
+                "amp": "0",
+                "bits": "24",
+                "decimate": "160",
+                "osc_mod": "0",
+                "pitch": "-36",
+                "ring_mod": "0"
+            },
+            "osc": {
+                "amp": "1",
+                "feedback": "0",
+                "noise_fm": "0",
+                "pitch": "36"
+            }
+        },
+        "synth_1": {
+            "amp_envelope": {
+                "attack": "3",
+                "hold": "40",
+                "release": "20"
+            },
+            "filter": {
+                "cutoff": "136",
+                "mode": "0",
+                "reso": "0"
+            },
+            "mixer": {
+                "gain": "-12",
+                "pan": "0",
+                "send_to_delay": "-48",
+                "send_to_reverb": "-48"
+            },
+            "mod_envelope": {
+                "attack": "0",
+                "dynamics": "0.5",
+                "random_cutoff": "0",
+                "random_noise": "0",
+                "release": "50",
+                "to_decimation": "0",
+                "to_filter": "0",
+                "to_noise_pitch": "0",
+                "to_osc": "48",
+                "to_osc_fb": "0"
+            },
+            "noise": {
+                "amp": "0",
+                "bits": "24",
+                "decimate": "160",
+                "osc_mod": "0",
+                "pitch": "-36",
+                "ring_mod": "0"
+            },
+            "osc": {
+                "amp": "1",
+                "feedback": "0",
+                "noise_fm": "0",
+                "pitch": "43"
+            }
+        },
+        "synth_2": {
+            "amp_envelope": {
+                "attack": "3",
+                "hold": "40",
+                "release": "20"
+            },
+            "filter": {
+                "cutoff": "136",
+                "mode": "0",
+                "reso": "0"
+            },
+            "mixer": {
+                "gain": "-12",
+                "pan": "0",
+                "send_to_delay": "-48",
+                "send_to_reverb": "-48"
+            },
+            "mod_envelope": {
+                "attack": "0",
+                "dynamics": "0.5",
+                "random_cutoff": "0",
+                "random_noise": "0",
+                "release": "50",
+                "to_decimation": "0",
+                "to_filter": "0",
+                "to_noise_pitch": "0",
+                "to_osc": "48",
+                "to_osc_fb": "0"
+            },
+            "noise": {
+                "amp": "0",
+                "bits": "24",
+                "decimate": "160",
+                "osc_mod": "0",
+                "pitch": "-36",
+                "ring_mod": "0"
+            },
+            "osc": {
+                "amp": "1",
+                "feedback": "0",
+                "noise_fm": "0",
+                "pitch": "50"
+            }
+        },
+        "synth_3": {
+            "amp_envelope": {
+                "attack": "3",
+                "hold": "40",
+                "release": "20"
+            },
+            "filter": {
+                "cutoff": "136",
+                "mode": "0",
+                "reso": "0"
+            },
+            "mixer": {
+                "gain": "-12",
+                "pan": "0",
+                "send_to_delay": "-48",
+                "send_to_reverb": "-48"
+            },
+            "mod_envelope": {
+                "attack": "0",
+                "dynamics": "0.5",
+                "random_cutoff": "0",
+                "random_noise": "0",
+                "release": "50",
+                "to_decimation": "0",
+                "to_filter": "0",
+                "to_noise_pitch": "0",
+                "to_osc": "48",
+                "to_osc_fb": "0"
+            },
+            "noise": {
+                "amp": "0",
+                "bits": "24",
+                "decimate": "160",
+                "osc_mod": "0",
+                "pitch": "-36",
+                "ring_mod": "0"
+            },
+            "osc": {
+                "amp": "1",
+                "feedback": "0",
+                "noise_fm": "0",
+                "pitch": "57"
+            }
+        },
+        "synth_4": {
+            "amp_envelope": {
+                "attack": "3",
+                "hold": "40",
+                "release": "20"
+            },
+            "filter": {
+                "cutoff": "136",
+                "mode": "0",
+                "reso": "0"
+            },
+            "mixer": {
+                "gain": "-12",
+                "pan": "0",
+                "send_to_delay": "-48",
+                "send_to_reverb": "-48"
+            },
+            "mod_envelope": {
+                "attack": "0",
+                "dynamics": "0.5",
+                "random_cutoff": "0",
+                "random_noise": "0",
+                "release": "50",
+                "to_decimation": "0",
+                "to_filter": "0",
+                "to_noise_pitch": "0",
+                "to_osc": "48",
+                "to_osc_fb": "0"
+            },
+            "noise": {
+                "amp": "0",
+                "bits": "24",
+                "decimate": "160",
+                "osc_mod": "0",
+                "pitch": "-36",
+                "ring_mod": "0"
+            },
+            "osc": {
+                "amp": "1",
+                "feedback": "0",
+                "noise_fm": "0",
+                "pitch": "64"
+            }
+        },
+        "synth_5": {
+            "amp_envelope": {
+                "attack": "3",
+                "hold": "40",
+                "release": "20"
+            },
+            "filter": {
+                "cutoff": "136",
+                "mode": "0",
+                "reso": "0"
+            },
+            "mixer": {
+                "gain": "-12",
+                "pan": "0",
+                "send_to_delay": "-48",
+                "send_to_reverb": "-48"
+            },
+            "mod_envelope": {
+                "attack": "0",
+                "dynamics": "0.5",
+                "random_cutoff": "0",
+                "random_noise": "0",
+                "release": "50",
+                "to_decimation": "0",
+                "to_filter": "0",
+                "to_noise_pitch": "0",
+                "to_osc": "48",
+                "to_osc_fb": "0"
+            },
+            "noise": {
+                "amp": "0",
+                "bits": "24",
+                "decimate": "160",
+                "osc_mod": "0",
+                "pitch": "-36",
+                "ring_mod": "0"
+            },
+            "osc": {
+                "amp": "1",
+                "feedback": "0",
+                "noise_fm": "0",
+                "pitch": "71"
+            }
+        }
+    }
+}
